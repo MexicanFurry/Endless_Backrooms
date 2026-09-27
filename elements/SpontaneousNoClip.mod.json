@@ -1,0 +1,12 @@
+{
+  "_fv": 89,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "doSpontaneousNoClip",
+    "description": "Enables or disables the option to do NoClip spontaneously",
+    "category": "PLAYER",
+    "defaultValueLogic": false,
+    "defaultValueNumber": 0
+  }
+}

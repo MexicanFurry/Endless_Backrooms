@@ -1,0 +1,8 @@
+{
+  "type": "backrooms:structure_feature",
+  "config": {
+    "structure": "backrooms:level0_wall9",
+    "random_rotation": true,
+    "ignored_blocks": []
+  }
+}

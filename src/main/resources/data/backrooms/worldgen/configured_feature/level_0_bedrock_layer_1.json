@@ -1,0 +1,7 @@
+{
+  "type": "backrooms:structure_feature",
+  "config": {
+    "structure": "backrooms:bedrock",
+    "ignored_blocks": []
+  }
+}

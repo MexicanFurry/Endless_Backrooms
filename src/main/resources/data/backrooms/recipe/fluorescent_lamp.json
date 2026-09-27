@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "backrooms:fluorescent_lamp_shard"
+    },
+    "c": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "id": "backrooms:fluorescent_lamp",
+    "count": 1
+  }
+}

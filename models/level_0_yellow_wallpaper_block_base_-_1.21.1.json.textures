@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "level_0_yellow_wallpaper_block_base_1.21.1"
+      }
+    }
+  }
+}

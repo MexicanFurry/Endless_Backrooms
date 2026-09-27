@@ -1,0 +1,11 @@
+{
+  "level0_ambient": {
+    "subtitle": "subtitles.level0_ambient",
+    "sounds": [
+      {
+        "name": "backrooms:level_0_ambient",
+        "stream": false
+      }
+    ]
+  }
+}

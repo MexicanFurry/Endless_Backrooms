@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "backrooms:wallpaper_rolls"
+    }
+  ],
+  "result": {
+    "id": "minecraft:paper",
+    "count": 4
+  }
+}

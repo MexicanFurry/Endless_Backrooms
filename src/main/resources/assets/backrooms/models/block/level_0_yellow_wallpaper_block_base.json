@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/level_0_yellow_wallpaper_block_base_-_1.21.1",
+  "textures": {
+    "all": "backrooms:block/level_0_yellow_wallpaper_block_base_1.21.1",
+    "particle": "backrooms:block/level_0_yellow_wallpaper_block_base_1.21.1",
+    "0": "backrooms:block/level_0_yellow_wallpaper_block_base_1.21.1"
+  },
+  "render_type": "solid"
+}

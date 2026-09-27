@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "backrooms:block/white_texture",
+    "particle": "backrooms:block/white_texture"
+  },
+  "render_type": "solid"
+}

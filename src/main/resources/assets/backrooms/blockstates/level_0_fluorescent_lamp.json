@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "light_event=false": {
+      "model": "backrooms:block/level_0_fluorescent_lamp_0"
+    },
+    "light_event=true": {
+      "model": "backrooms:block/level_0_fluorescent_lamp_1"
+    }
+  }
+}

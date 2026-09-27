@@ -1,0 +1,42 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="backrooms"
+version="0.1.0.000"
+displayName="Endless Backrooms"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Mexican Furry"
+description="Just a Backrooms mod"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.backrooms]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.232,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.backrooms]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.backrooms]]
+    modId="jei"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

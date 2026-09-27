@@ -1,0 +1,50 @@
+/tp ~ 0 ~
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby_1
+/tp @s -253 100 1283
+/noclip Dev backrooms level 0
+/give Dev backrooms:portal
+/noclip Dev backrooms level 0
+/tp ~ 100 ~
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s 23 67 0
+/
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s -4 100 10
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobb
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s 182 73 62
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s 164 100 357
+/locate biome backrooms:level_0_the_lobby
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s 214 100 -243
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s 387 100 38
+/noclip Dev backrooms level 0
+/locate biome backrooms:level_0_the_lobby
+/tp @s 280 100 -465
+/noclip Dev backrooms level 0

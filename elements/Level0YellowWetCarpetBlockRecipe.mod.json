@@ -1,0 +1,32 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "CUSTOM:WoodenBlock",
+      "CUSTOM:Level0YellowWetCarpet"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      "CUSTOM:WoodenBlock",
+      "CUSTOM:Level0YellowWetCarpet",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "CUSTOM:Level0YellowWetCarpetBlock",
+    "name": "level_0_yellow_wet_carpet_block",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms:block/wood_slab"
+    },
+    "type=top": {
+      "model": "backrooms:block/wood_slab_top"
+    },
+    "type=double": {
+      "model": "backrooms:block/wood_slab_full"
+    }
+  }
+}

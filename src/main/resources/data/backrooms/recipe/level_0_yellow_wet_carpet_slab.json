@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "backrooms:level_0_yellow_wet_carpet_block"
+    }
+  },
+  "result": {
+    "id": "backrooms:level_0_yellow_wet_carpet_slab",
+    "count": 6
+  }
+}

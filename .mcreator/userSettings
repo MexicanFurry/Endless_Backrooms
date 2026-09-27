@@ -1,0 +1,31 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, Endless Backrooms]",
+      "[, Endless Backrooms, Source (Gradle)]",
+      "[, Endless Backrooms, Source (Gradle), C:\\Users\\corai\\MCreatorWorkspaces\\Endless Backrooms - NeoForge 1.21.1\\src\\main\\java\\net]",
+      "[, Endless Backrooms, Source (Gradle), C:\\Users\\corai\\MCreatorWorkspaces\\Endless Backrooms - NeoForge 1.21.1\\src\\main\\java\\net, C:\\Users\\corai\\MCreatorWorkspaces\\Endless Backrooms - NeoForge 1.21.1\\src\\main\\java\\net\\mexicanfurry]",
+      "[, Endless Backrooms, Source (Gradle), C:\\Users\\corai\\MCreatorWorkspaces\\Endless Backrooms - NeoForge 1.21.1\\src\\main\\java\\net, C:\\Users\\corai\\MCreatorWorkspaces\\Endless Backrooms - NeoForge 1.21.1\\src\\main\\java\\net\\mexicanfurry, C:\\Users\\corai\\MCreatorWorkspaces\\Endless Backrooms - NeoForge 1.21.1\\src\\main\\java\\net\\mexicanfurry\\backrooms]"
+    ]
+  },
+  "leftDockState": {
+    "dockSizes": {
+      "project_browser": 269,
+      "local_history": 280,
+      "information_dock": 380
+    }
+  },
+  "rightDockState": {
+    "dockSizes": {}
+  },
+  "bottomDockState": {
+    "dockSizes": {
+      "console": 164,
+      "code_viewer": 300,
+      "debugger": 300
+    }
+  }
+}

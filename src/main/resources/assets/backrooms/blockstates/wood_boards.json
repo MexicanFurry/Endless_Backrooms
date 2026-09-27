@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "backrooms:block/wood_boards"
+    },
+    "face=floor,facing=east": {
+      "model": "backrooms:block/wood_boards",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "backrooms:block/wood_boards",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "backrooms:block/wood_boards",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "backrooms:block/wood_boards",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "backrooms:block/wood_boards",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "backrooms:block/wood_boards",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "backrooms:block/wood_boards",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "backrooms:block/wood_boards",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "backrooms:block/wood_boards",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "backrooms:block/wood_boards",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "backrooms:block/wood_boards",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

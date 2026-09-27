@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "backrooms:block/level_0_yellow_wet_carpet_slab"
+    },
+    "type=top": {
+      "model": "backrooms:block/level_0_yellow_wet_carpet_slab_top"
+    },
+    "type=double": {
+      "model": "backrooms:block/level_0_yellow_wet_carpet_slab_full"
+    }
+  }
+}

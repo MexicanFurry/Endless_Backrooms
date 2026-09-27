@@ -1,0 +1,7 @@
+{
+  "type": "backrooms:structure_feature",
+  "config": {
+    "structure": "backrooms:level0_room1",
+    "ignored_blocks": []
+  }
+}

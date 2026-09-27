@@ -1,0 +1,57 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-26 22:00:21 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-09-26 22:00:22 -0600"
+    },
+    "done": false
+  },
+  "backrooms:recipes/level_0_yellow_wallpaper_block_recipe": {
+    "criteria": {
+      "has_ingredient_1": "2026-09-26 22:21:14 -0600"
+    },
+    "done": true
+  },
+  "backrooms:recipes/paper_from_wallpaper_rolls": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-26 22:21:14 -0600"
+    },
+    "done": true
+  },
+  "backrooms:recipes/wood_boards_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-26 22:21:37 -0600"
+    },
+    "done": true
+  },
+  "backrooms:recipes/wood_stairs_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-26 22:21:37 -0600"
+    },
+    "done": true
+  },
+  "backrooms:recipes/level_0_yellow_wet_carpet_block_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-26 22:21:37 -0600"
+    },
+    "done": true
+  },
+  "backrooms:recipes/oak_planks_from_wood_block": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-26 22:21:37 -0600"
+    },
+    "done": true
+  },
+  "backrooms:recipes/wood_slab_recipe": {
+    "criteria": {
+      "has_ingredient_0": "2026-09-26 22:21:37 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

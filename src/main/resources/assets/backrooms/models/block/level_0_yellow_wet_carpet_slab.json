@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "backrooms:block/level_0_yellow_carpet",
+    "bottom": "backrooms:block/level_0_yellow_carpet",
+    "top": "backrooms:block/level_0_yellow_carpet",
+    "side": "backrooms:block/level_0_yellow_carpet"
+  },
+  "render_type": "solid"
+}

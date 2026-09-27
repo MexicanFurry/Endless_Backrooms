@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "backrooms:level_0_the_lobby",
+    "backrooms:level_0_the_lobby_1"
+  ],
+  "features": "backrooms:level_0_wall_1_floor_4",
+  "step": "strongholds"
+}

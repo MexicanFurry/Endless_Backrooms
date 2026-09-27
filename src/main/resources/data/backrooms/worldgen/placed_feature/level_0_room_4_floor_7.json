@@ -1,0 +1,24 @@
+{
+  "feature": "backrooms:level_0_room_4_floor_7",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 1
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 158
+        },
+        "max_inclusive": {
+          "absolute": 158
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

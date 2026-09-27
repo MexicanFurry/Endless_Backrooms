@@ -1,0 +1,32 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "CUSTOM:WoodenBlock",
+      "CUSTOM:Level0YellowWallpaperRoll"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      "CUSTOM:WoodenBlock",
+      "CUSTOM:Level0YellowWallpaperRoll",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "CUSTOM:Level0YellowWallpaperBlock",
+    "name": "level_0_yellow_wallpaper_block",
+    "namespace": "mod"
+  }
+}

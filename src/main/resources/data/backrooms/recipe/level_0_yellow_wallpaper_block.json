@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "backrooms:wood_block"
+    },
+    {
+      "item": "backrooms:level_0_yellow_wallpaper_roll"
+    }
+  ],
+  "result": {
+    "id": "backrooms:level_0_yellow_wallpaper_block",
+    "count": 1
+  }
+}

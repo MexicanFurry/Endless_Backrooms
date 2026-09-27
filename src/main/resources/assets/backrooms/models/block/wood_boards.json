@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/wood_boards_block",
+  "textures": {
+    "all": "backrooms:block/wood_boards_block",
+    "particle": "backrooms:block/wood_boards_block",
+    "0": "backrooms:block/wood_boards_block"
+  },
+  "render_type": "solid"
+}
