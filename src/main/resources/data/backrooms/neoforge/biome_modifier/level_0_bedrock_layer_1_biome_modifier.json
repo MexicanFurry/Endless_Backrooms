@@ -5,5 +5,5 @@
     "backrooms:level_0_the_lobby_1"
   ],
   "features": "backrooms:level_0_bedrock_layer_1",
-  "step": "strongholds"
+  "step": "top_layer_modification"
 }

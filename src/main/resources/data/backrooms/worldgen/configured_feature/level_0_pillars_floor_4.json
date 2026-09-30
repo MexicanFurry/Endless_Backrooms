@@ -2,7 +2,6 @@
   "type": "backrooms:structure_feature",
   "config": {
     "structure": "backrooms:level0_pillars",
-    "random_rotation": true,
     "ignored_blocks": []
   }
 }

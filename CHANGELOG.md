@@ -1,3 +1,13 @@
+# 0.1.0.001
+## Added
+## Changed
+- Level 0 now consists of 30 floors.
+## Deprecated
+## Removed
+## Fixed
+
+***
+
 # 0.1.0.000
 ## Added
 * Basic **Level 0** Generation.
@@ -19,6 +29,8 @@
 ### Removed
 ### Fixed
 
+***
+
 # 0.0.0.002
 ## Added
 * **Fluorescent Lamp** block.
@@ -30,6 +42,8 @@
 ### Deprecated
 ### Removed
 ### Fixed
+
+***
 
 # 0.0.0.001
 ## Added

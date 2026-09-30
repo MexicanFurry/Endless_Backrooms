@@ -2,6 +2,7 @@
 
 ## ✅ Completed
 - [x] Basic Level 0 world generation and its respective blocks
+- [x] More floors for Level 0
 
 ## 🔨 In Development
 - [ ] Level 0 Event: Flickering Lights
@@ -13,7 +14,6 @@
 - [ ] The Red Rooms
 - [ ] The Torment
 - [ ] The Dullness
+- [ ] Sublevels
 
 ## 💭 Future Ideas
-- [ ] Sublevels
-- [ ] More floors for Level 0

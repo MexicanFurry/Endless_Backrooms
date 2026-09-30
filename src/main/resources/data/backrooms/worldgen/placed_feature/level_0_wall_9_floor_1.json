@@ -6,19 +6,19 @@
       "chance": 9
     },
     {
+      "type": "minecraft:biome"
+    },
+    {
       "type": "minecraft:height_range",
       "height": {
         "type": "minecraft:uniform",
         "min_inclusive": {
-          "absolute": 100
+          "absolute": -60
         },
         "max_inclusive": {
-          "absolute": 100
+          "absolute": -60
         }
       }
-    },
-    {
-      "type": "minecraft:biome"
     }
   ]
 }
